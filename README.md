@@ -1,3 +1,4 @@
+抓包
 Parse and display http traffic from network device or pcap file. This is a go version of origin pcap-parser, thanks to gopacket project, this tool has simpler code base and is more efficient.
 
 For origin python implementation, [refer to this branch](https://github.com/clearthesky/httpparse/tree/pcap-parser-python).
